@@ -437,7 +437,7 @@ pip install Adafruit_DHT requests gpiozero --break-system-packages
 2. Create a new Channel with 3 fields: Temperature °C, Temperature °F, Humidity %
 3. Copy your **Write API Key** from the API Keys tab
 ```
-
+```
 DHT22 Sensor          Raspberry Pi 5
 ─────────────         ───────────────
 Pin 1 (VCC)   ──────  Pin 1  (3.3V)
@@ -447,7 +447,8 @@ Pin 4 (GND)   ──────  Pin 6  (GND)
 
 Note: A 10kΩ pull-up resistor between DATA and VCC
       is recommended for cable lengths > 20cm.
-
+```
+---
 ## Working Principle
 
 ```
