@@ -899,6 +899,3 @@ Use cases: object detection with Pi Camera, keyword spotting, anomaly detection 
 - **Virtual environment issues:** Ensure venv is activated (check prompt), avoid mixing pip installs, use `--break-system-packages` cautiously on Debian-based systems.
 - **LED not lighting:** Test with a simple script, check resistor values (330Ω for LEDs), confirm GPIO is set as output.
 - **DHT sensor errors:** Ensure correct pin, wait between readings, handle exceptions for failed reads.
-
----</content>
-<parameter name="filePath">/home/nahid/Downloads/RPi_IoT_Workshop_Optimized.md
