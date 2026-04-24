@@ -79,7 +79,7 @@
 
 ### What is Raspberry Pi?
 
-   The **Raspberry Pi 5 (RPi 5)** is a **single-board computer (SBC)** that runs a full Linux operating system. Unlike a microcontroller (such as Arduino), it can run multiple processes simultaneously, host web servers, execute Python-based IoT applications, perform edge computing, and interface with sensors through its GPIO pins — making it highly suitable for modern IoT and embedded AI systems.
+The **Raspberry Pi 5 (RPi 5)** is a **single-board computer (SBC)** that runs a full Linux operating system. Unlike a microcontroller (such as Arduino), it can run multiple processes simultaneously, host web servers, execute Python-based IoT applications, perform edge computing, and interface with sensors through its GPIO pins — making it highly suitable for modern IoT and embedded AI systems.
 
 | Feature | Microcontroller (Arduino) | Single-Board Computer (RPi 5) |
 |---|---|---|
