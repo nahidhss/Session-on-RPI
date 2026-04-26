@@ -273,6 +273,7 @@ Now install packages inside venv:
 pip install numpy
 pip install requests
 pip install gpiozero
+pip install lgpio
 ```
 
 Or install multiple packages at once:
